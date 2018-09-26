@@ -1,3 +1,0 @@
-# My name is Blane Curtis Rhodes 
-I am currently learning python...
-please bear with me.

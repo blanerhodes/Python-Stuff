@@ -1,3 +1,6 @@
+# blane is a meme
+# teaching you about blame
+
 import pandas as pd
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
